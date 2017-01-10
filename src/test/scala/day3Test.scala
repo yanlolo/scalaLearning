@@ -5,7 +5,7 @@
 import day3._
 import org.scalatest.FlatSpec
 
-class RecursionSpec extends FlatSpec {
+class day3Test extends FlatSpec {
 
   "findFirst: the first b's index " should "be 1 " in {
     val ss = Array("a", "b", "c", "b")
