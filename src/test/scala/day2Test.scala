@@ -17,8 +17,6 @@ class day2Test extends FlatSpec {
   }
 
   "factRec2" should "be 24 " in {
-    val ss = Array(1, 2, 3, 4)
-    val pp = (x: Int, y:Int) => x < y
     assert(factRec2(4) === 24)
   }
 
