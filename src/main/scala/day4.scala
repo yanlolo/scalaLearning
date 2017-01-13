@@ -32,6 +32,7 @@ object day4 {
 //  逆变contravariant	C[T] 是 C[T’]的子类	[-T]
 //  不变invariant	C[T] 和 C[T’]无关	[T]
   //https://twitter.github.io/scala_school/zh_cn/type-basics.html
+  //https://github.com/fpinscala/fpinscala
   case object Nil extends List[Nothing]
 
   case class Cons[+A](head: A, tail: List[A]) extends List[A]
