@@ -1,3 +1,9 @@
+
+Answer:
+https://github.com/fpinscala/fpinscala/tree/master/answers/src/main/scala/fpinscala/datastructures
+https://github.com/fpinscala/fpinscala
+
+
 # Day 3 - 09/01/2017
 
 ### The concepts for this day are:
